@@ -1,0 +1,1 @@
+El diseño e implementación de un sistema de gestión de ventas requiere estructurar la información para garantizar su integridad y escalabilidad técnica. El presente documento expone la resolución completa del proyecto ABP mediante el motor SQLite, articulando estratégicamente las sentencias DDL y DML exigidas para sistematizar el modelo comercial.
